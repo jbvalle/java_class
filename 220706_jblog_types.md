@@ -32,6 +32,8 @@ Java Types are divided into following Categories:
 </tbody>
 </table>
 
+Primitive Datatypes are not considered objects. However ,there are class representations for every type, consisting of fields or constants that can return a value. Additionally every of these classes consist of class specific methods, that can be looked up in the documentation. 
+
 ## Integral Types
 
 ### Memory Consumption of int Types
