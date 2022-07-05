@@ -35,3 +35,12 @@ Java Types are divided into following Categories:
 | short | 16 Bit |
 | int | 32 Bit |
 | long | 64 Bit |
+
+## Char Types
+
+### Representation
+
+Char Types are generally an unsigned integer type with the following possible Representations:
+- Code point (ex. char var = '50' | prints 2)
+- Unicode escape (ex. char var = '\ul0041' | prints A)
+- Printable symbol (Displayed on console) (ex. char var = 'x' | prints x)
