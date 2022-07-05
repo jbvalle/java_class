@@ -2,21 +2,24 @@
 
 ## Overview
 
-Java Types are divided into following Categories
+Java Types are divided into following Categories:
+
 
 <table>
 <tbody>
 <tr>
-<td rowspan=2>primitive Types</td>
-<td>(primitive Type) boolean Types</td>
+<td rowspan=3>primitive Types</td>
+<td colspan=2>boolean Types</td>
 </tr>
 <tr>
-<td>(primitive Type) numeric Types</td>
+<td rowspan=2>numeric Types</td>
+<td>Integer Typer (byte, char, short, int long)</td>
 </tr>
 <tr>
-<td colspan=2>reference Types</td>
+<td>floating-point Types (float and double)        
 </tr>
-
+<tr>
+<td colspan=3>reference Types</td>
+</tr>
 </tbody>
 </table>
-
