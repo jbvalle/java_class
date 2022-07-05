@@ -23,3 +23,15 @@ Java Types are divided into following Categories:
 </tr>
 </tbody>
 </table>
+
+## Integral Types
+
+### Memory Consumption of int Types
+
+| Int Type | Memory|
+| --- | --- |
+| byte | 8 Bit |
+| char | 16 Bit |
+| short | 16 Bit |
+| int | 32 Bit |
+| long | 64 Bit |
